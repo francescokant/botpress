@@ -1,0 +1,19 @@
+<style>
+    .bpw-layout{
+        max-height: 70%!important;
+    }
+    .bpw-header-container{
+        background-color: #3f84f5!important;
+    }
+    .bpw-chat-bubble-content{
+        background-color:#3f84f5!important;
+    }
+    .bpw-button{
+        color: #3f84f5;
+        border: 1px solid #3f84f5;
+        border-radius: 8px;
+    }
+    .bpw-floating-button, .bpw-floating-button:hover{
+        background-color: #3f84f5;
+    }
+</style>
